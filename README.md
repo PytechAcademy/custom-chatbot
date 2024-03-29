@@ -4,12 +4,6 @@
 
 This project is aimed at assisting startups with information about government schemes using a chatbot interface. The chatbot is built using the Assistant API and is integrated into a streamlit web application.
 
-
-Download raw and view demo here:
-
-[https://github.com/KilariHarthik/StartupAssist/blob/main/Screen%20Recording%202024-03-15%20at%2013.10.39.mov](https://github.com/KilariHarthik/StartupAssist/blob/main/Screen%20Recording%202024-03-15%20at%2013.10.39.mov)
-
-
 ### File Structure
 
 - **.streamlit/**: Contains configuration files for Streamlit.
